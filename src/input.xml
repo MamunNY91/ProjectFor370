@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserStore>
+<User id = "100">
+   <name>Sam91</name>
+   <password>1234</password>
+   <type>user</type>
+</User>
+<User id = "101">
+    <name>Goldberg</name>
+    <password>3222</password>
+    <type>admin</type>
+</User>
+<User id = "103">
+    <name>John91</name>
+    <password>2232</password>
+    <type>guest</type>
+</User>
+</UserStore>

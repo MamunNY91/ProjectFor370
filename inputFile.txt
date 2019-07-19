@@ -1,0 +1,9 @@
+username:Goldberg71
+password:12345
+userType:admin
+username:Sam91
+password:34333
+usertype:user
+username:Robert12
+password:234222
+userType:Guest
